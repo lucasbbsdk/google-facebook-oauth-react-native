@@ -1,11 +1,11 @@
 {
   "expo": {
     "name": "google-auth-demo",
-    "slug": "google-auth-demo",
+    "slug": "teste",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "scheme": "com.chelseafarley.googleauthdemo",
+    "scheme": "teste",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
